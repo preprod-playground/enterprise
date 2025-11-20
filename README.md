@@ -1,6 +1,6 @@
 # Enterprise 
 
-These Enterprise project examples leverage a Layered Seperation Design Pattern for **programming** (i.e Coding againsta a pattern) rather than Front End **Coded** Spaghetti.
+These Enterprise project examples leverage a Layered Seperation Design Pattern for **programming** (i.e Coding againsta a pattern) rather than Front End **Coded** Spaghetti. 
 
 **Key Benefits:**
 - **Tuple Intellisense** Design Time intellisense Tuple matching for datafieldds to Ui properties
